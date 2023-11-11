@@ -1,0 +1,15 @@
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/bin/Debug/net7.0/BlackJack
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/bin/Debug/net7.0/BlackJack.deps.json
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/bin/Debug/net7.0/BlackJack.runtimeconfig.json
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/bin/Debug/net7.0/BlackJack.dll
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/bin/Debug/net7.0/BlackJack.pdb
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.csproj.AssemblyReference.cache
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.AssemblyInfoInputs.cache
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.AssemblyInfo.cs
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.dll
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/refint/BlackJack.dll
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.pdb
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/BlackJack.genruntimeconfig.cache
+/Users/jaredcooper/RiderProjects/BlackJack/BlackJack/obj/Debug/net7.0/ref/BlackJack.dll
