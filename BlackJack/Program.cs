@@ -404,6 +404,7 @@
                                    }
                                    else if (choice != null && choice.Equals("s", StringComparison.OrdinalIgnoreCase))
                                    {
+                                       break;
                                    }
                                    else if (choice != null && choice.Equals("d", StringComparison.OrdinalIgnoreCase))
                                    {
@@ -434,6 +435,7 @@
                                                              playerMoney + ".");
                                        }
 
+                                       numberOfAcesP = 0;
                                        break;
                                    }
                                    else
@@ -442,7 +444,7 @@
                                    }
                                }
                            }
-
+                           
                            var betSplit = betAmount;
                            var playerCard4 = game.DrawCard();
                            playerValue2 += game.GetCardValue(playerCard4,
@@ -501,6 +503,7 @@
                                    }
                                    else if (choice != null && choice.Equals("s", StringComparison.OrdinalIgnoreCase))
                                    {
+                                       break;
                                    }
                                    else if (choice != null && choice.Equals("d", StringComparison.OrdinalIgnoreCase))
                                    {
