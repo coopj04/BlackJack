@@ -230,7 +230,9 @@
            var game = new BlackJack(6);
            
            //Player starting money
-           double playerMoney = 4000;
+           double playerMoney;
+           Console.WriteLine("How much would you like to buy in for?");
+           double.TryParse(Console.ReadLine(), out playerMoney);
 
            while (true)
            {
