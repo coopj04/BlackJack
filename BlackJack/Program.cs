@@ -230,7 +230,7 @@
            var game = new BlackJack(6);
            
            //Player starting money
-           double playerMoney = 2000;
+           double playerMoney = 4000;
 
            while (true)
            {
@@ -545,7 +545,7 @@
 
                            Console.WriteLine("Dealer's cards: " + dealerCard1 + ", " + dealerCard2 + " (" + dealerValue + ")"); 
                            //dealer must hit while under 17
-                           while (dealerValue < 17 || (dealerValue > 17 && numberOfAcesD > 0))
+                           while (dealerValue < 17 )
                            {
                                var dealerCard = game.DrawCard();
                                AdjustCount(dealerCard);
@@ -641,6 +641,7 @@
                            {
                                playerMoney -= betAmount;
                                Console.WriteLine("Player bust! You lose. Total funds now at $" + playerMoney + ".");
+                               Console.WriteLine("Dealer's cards: " + dealerCard1 + ", " + dealerCard2 + " (" + dealerValue + ")");
                                break;
                            }
                        }
