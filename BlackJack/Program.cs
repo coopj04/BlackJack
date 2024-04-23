@@ -8,7 +8,7 @@
         /// <summary>
         /// This list stores the deck of cards and can be made to store multiple decks
         /// </summary>
-        private readonly List <string> _deck;
+        private readonly List<string> _deck;
 
         /// <summary>
         /// creates deck 
@@ -230,9 +230,8 @@
            var game = new BlackJack(6);
            
            //Player starting money
-           double playerMoney;
            Console.WriteLine("How much would you like to buy in for?");
-           double.TryParse(Console.ReadLine(), out playerMoney);
+           double.TryParse(Console.ReadLine(), out double playerMoney);
 
            while (true)
            {
